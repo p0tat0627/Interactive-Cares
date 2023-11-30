@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "728036689057",
+    "project_id": "interactivecares-627",
+    "storage_bucket": "interactivecares-627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728036689057:android:10149fcd7bc81c2b359ce0",
+        "android_client_info": {
+          "package_name": "com.example.interactive_cares"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728036689057-tal8apbpubqm2ep0l1tfnfvj2sfr55l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ODHfQygpbeS1obh7zAhxzptY4FpfCmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728036689057-tal8apbpubqm2ep0l1tfnfvj2sfr55l2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728036689057-j7flcm107gm4s9le7sqmr64uqc1oe2dv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.interactiveCares.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
